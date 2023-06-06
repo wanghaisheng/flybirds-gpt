@@ -45,11 +45,13 @@ https://github.com/wanghaisheng/flybirds-gpt/blob/main/DSL-rules.md
 但实际上通常我们会说
 >进入页面检查登录按钮是否渲染完成，
 
-如何把这句话利用prompt转成上面那句，这个规则该怎么表达。需要指导登录按钮的选择器是什么，登录按钮的文本内容是什么
+如何把这句话利用prompt转成上面那句，这个规则该怎么表达。需要知道登录按钮的选择器是什么，登录按钮的文本内容是什么
 
-```
+
 对于进入url页面检查元素是否渲染完成来说，
 第一步，我们需要获取元素的选择器表达式和元素的文本内容，可以使用：
+```
+
 If someone asks you to perform a task, your job is to come up with a series of playwright Python commands that will perform the task. 
 There is no need  to include the descriptive text about the program in your answer, only the commands.
 Note that the version of playwright is the latest.
