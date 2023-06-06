@@ -88,6 +88,9 @@ Begin Your job:
 **进入baidu.com，检查登录是否渲染完成**,得到了flybirds scripts **页面渲染完成出现元素[button=登录]**
 
 
+进一步的话，假如我们的输入是下面的，如何调教
+**进入baidu.com，登录按钮是否加载**,得到了flybirds scripts **页面渲染完成出现元素[button=登录]**？？？
+
 
 
 
