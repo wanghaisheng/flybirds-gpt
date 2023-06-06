@@ -97,3 +97,13 @@ Begin Your job:
 REF
 https://github.com/mpetrovich/gherkin-scenario-builder
 
+>This scenario will be automatically generated based on the actions above:
+
+Given I am logged out
+And I navigate to "login"
+And I set "email" to "foo@bar.com"
+And I set "password" to "the wrong password"
+And I set "remember me" to "checked"
+When I click "login button"
+Then "login error message" should be visible
+
