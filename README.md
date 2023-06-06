@@ -1,10 +1,28 @@
 # flybirds-gpt
 gpt empower about UI auomation testing. help gen scripts that fiybirds consume
 
-没有openai账号的，可以试试这个共享链接
+没有openai账号的，可以试试这个共享链接，需要梯子
 
 https://chat-shared1.zhile.io/
 
+
+## 我的想法
+
+假设我们的场景是测试登录功能是否完善，
+
+1.最傻的是告诉他一句话，我想测试谷歌网站/某app的登录功能是否完善，完了它直接能出feature script
+
+2.退而求其次，我想录制一个简单的登录操作，自动生成一个feature script
+
+3.我把第一步的测试分解成一个个步骤，可以是纯自然语言形式，
+
+a.访问网址，打开网页
+b.检查网页是否成功加载
+c 登录按钮是否加载
+d 登录按钮是否可以点击
+e 输入用户名和密码
+f 点击登录
+将这些分解步骤输入给gpt，它直接出feature script
 
 
 ## dsl 规则转换成prompts
@@ -55,3 +73,11 @@ Your job:  找到元素 :url,无需给出代码，给出元素的选择器的名
 这样，我们就完成了输入:
 
 **进入baidu.com，检查登录是否渲染完成**,得到了flybirds scripts **页面渲染完成出现元素[button=登录]**
+
+
+
+
+
+REF
+https://github.com/mpetrovich/gherkin-scenario-builder
+
