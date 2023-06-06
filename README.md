@@ -1,6 +1,11 @@
 # flybirds-gpt
 gpt empower about UI auomation testing. help gen scripts that fiybirds consume
 
+没有openai账号的，可以试试这个共享链接
+
+https://chat-shared1.zhile.io/
+
+
 
 ## dsl 规则转换成prompts
 
