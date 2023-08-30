@@ -1,3 +1,8 @@
+https://github.com/AntonOsika/gpt-engineer
+
+how gpt-engineer integrated with flybirds
+
+
 # flybirds-gpt
 gpt empower about UI auomation testing. help gen scripts that fiybirds consume
 
