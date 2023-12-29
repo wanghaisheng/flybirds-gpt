@@ -28,7 +28,10 @@ video diff against web/app database to know this is a app or website operation
 
 
 
-segement anything  
+segement anything   to get the basic layout of image  
+
+https://segment-anything.com/demo
+
 
 # 2 replay the auto scripts against app or website
 
