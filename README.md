@@ -5,6 +5,7 @@ https://github.com/imoneoi/openchat
 
 https://github.com/wanghaisheng/screen-recording-tell
 
+https://github.com/a16z-infra/JungleGym
 
 
 how gpt-engineer integrated with flybirds
