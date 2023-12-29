@@ -8,7 +8,7 @@ https://github.com/imoneoi/openchat
 how gpt-engineer integrated with flybirds
 
 
-# gen auto scripts from video recording
+# 1 gen auto scripts from video recording
 
 
 利用多模态模型对用户可见文本、视觉图像内容和UI组件树中的属性进行融合，实现了对于UI交互意图的准确识别
@@ -22,11 +22,12 @@ output :
 bdd rules 
 
 
-# replay the auto scripts against app or website
+# 2 replay the auto scripts against app or website
 
 BDD way for web
 airtest for app
 
+# 3 if got thousands of 1 and 2 trainning data, we may acheive from natural speech language to action 
 
 
 # flybirds-gpt
