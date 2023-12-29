@@ -17,6 +17,10 @@ https://github.com/wanghaisheng/screen-recording-tell
 
 https://github.com/a16z-infra/JungleGym
 
+output :
+
+bdd rules 
+
 
 # replay the auto scripts against app or website
 
