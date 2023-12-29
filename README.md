@@ -22,6 +22,11 @@ output :
 bdd rules 
 
 
+
+
+video diff against web/app database to know this is a app or website operation
+
+
 # 2 replay the auto scripts against app or website
 
 BDD way for web
