@@ -1,4 +1,11 @@
 https://github.com/AntonOsika/gpt-engineer
+https://github.com/mnotgod96/AppAgent
+
+https://github.com/imoneoi/openchat
+
+https://github.com/wanghaisheng/screen-recording-tell
+
+
 
 how gpt-engineer integrated with flybirds
 
