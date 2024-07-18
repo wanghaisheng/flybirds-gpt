@@ -4,6 +4,12 @@ https://github.com/mnotgod96/AppAgent
 https://github.com/imoneoi/openchat
 
 
+https://github.com/testinging6/GPTDroid
+
+https://github.com/geekan/MetaGPT
+
+https://github.com/azho0003/ChatGPT-as-Human
+
 
 how gpt-engineer integrated with flybirds
 
