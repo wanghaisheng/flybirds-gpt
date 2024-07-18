@@ -1,3 +1,6 @@
+https://github.com/EqualExperts/agents-behave
+https://github.com/psousa50/bdd-llm-experiments
+
 https://github.com/AntonOsika/gpt-engineer
 https://github.com/mnotgod96/AppAgent
 
