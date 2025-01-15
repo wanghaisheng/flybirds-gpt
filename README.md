@@ -1,3 +1,8 @@
+自然语言测试脚本执行  https://github.com/anti-work/shortest  playwright
+
+https://github.com/wanghaisheng/drissionpage-ai-browser-automation playwright
+
+
 
 https://github.com/stanfordnlp/dspy
 
